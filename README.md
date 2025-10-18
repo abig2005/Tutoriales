@@ -7,22 +7,10 @@ Demo: [http://website-templates.github.io/design-studio_one-page-template](http:
 ![Mockup demo](screenshots/pic.jpg)
 Product mockup created with [http://frame.lab25.co.uk/](http://frame.lab25.co.uk/)
 
-## Contents
-
-- [Folder and file structure](#folder-and-file-structure)
-- [Requirements:](#requirements)
-    - [Editorconfig](#editorconfig)
-- [How to start](#how-to-start)
-- [Site configuration](#site-configuration)
-- [Tasks](#tasks)
-    - [Cleanup](#cleanup)
-    - [Dev](#dev)
-    - [Build](#build)
-    - [Rebuild](#rebuild)
-    - [Server](#server)
-    - [Sprite](#sprite)
-- [Live reload](#live-reload)
-- [License](#license)
+## Contenido
+- [Tutoriales](#Tutoriales)
+    - [Tutorial2](#Tutorial2)
+      
 
 ## Folder and file structure
 ```
